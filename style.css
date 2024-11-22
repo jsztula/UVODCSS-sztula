@@ -1,0 +1,54 @@
+body{
+    background-image: url(obrazky/bike_tues_header_01.jpg);
+}
+.texth1{
+    color: rgb(0, 89, 255);
+    text-align: center;
+    font-family: 'Courier New', Courier, monospace;
+}
+.texth2{
+    color: rgb(0, 255, 13);
+    text-align: left;
+    font-family: Arial, Helvetica, sans-serif;
+}
+.texth3{
+    color: rgb(110, 112, 0);
+    text-align: right;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-style: oblique;
+}
+.pak-list {
+    list-style-type: upper-roman;
+    padding-left: 30px;
+}
+.item-1 {
+    color: #626464;
+}
+
+.item-2 {
+    color: #a70f1c;
+}
+
+.item-3 {
+    color: #061f91;
+}
+.pak-list {
+    list-style: none;
+    padding-left: 30px;
+}
+
+.pak-list li {
+    margin: 10px 0;
+}
+
+.square {
+    list-style-type: square;
+}
+
+.circle {
+    list-style-type: circle;
+}
+
+.triangle {
+    list-style-type: disc;
+}
